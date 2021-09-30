@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Claus30
+- 👋 Hi, I’m Claudecir Silva
 - 👀 I’m interested in PHP and Laravel
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project with another devs 
