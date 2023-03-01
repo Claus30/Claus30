@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claudecir Silva
-- 👀 I’m interested in PHP and Laravel
+- 👀 I’m interested in React
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project with another devs 
 - 📫 How to reach me claudecirst30@gmail.com 
