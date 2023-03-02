@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Ferramentas e Tecnologias 
 
-<img height="50%" width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
