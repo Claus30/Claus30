@@ -1,4 +1,4 @@
-## 👋 Ola, meu nome é Claudecir da Silva Teixeira
+## Ola, meu nome é Claudecir da Silva Teixeira
 
 - 🔭 Atualmente estou na faculdade de Analise e Desenvolvimento de Sistemas
 - 🌱 Estou aprendendo JavaScript 
